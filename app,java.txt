@@ -1,1 +1,3 @@
-piblic class app {}
+piblic class app {
+           public static void main¨(string ¨[]. args)
+}
